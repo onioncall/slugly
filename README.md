@@ -8,5 +8,3 @@ Specify custom pause characters and their pause duration, otherwise it will paus
 Custom pause characters can be more than one character in length. Confusing, I know.
 
 This will at some point contain actual documentation. But for the time being, just look at you the code and figure it out. 
-
-testing
