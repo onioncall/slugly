@@ -27,6 +27,7 @@ func (cw *ConsoleWriter) WriteChar(char string) error {
 }
 
 func (cw *ConsoleWriter) Flush() error {
+	// this feels wrong but whatever
     return nil
 }
 
