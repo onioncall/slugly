@@ -7,6 +7,6 @@ import (
 )
 
 func main() {
-	config := slugly.NewConsoleSlugConfig(slugly.MediumPrintSpeed, os.Stdout)
+	config := slugly.NewConsoleSlugConfig(slugly.FastPrintSpeed, os.Stdout)
     config.SlugPrint("Hello! This is a test string... for testing.")
 }
